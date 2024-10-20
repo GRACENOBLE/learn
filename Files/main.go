@@ -7,7 +7,6 @@ import (
 )
 
 func main(){
-	//c := reader.ReadTextFile("data/text.txt")
-	reader.WriteToFile("data/text2.txt","Hello")
+	
 
 }
