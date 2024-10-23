@@ -11,4 +11,4 @@ type Instructor struct{
 
 func (i Instructor) Print() string {
 	return fmt.Sprintf("%v, %v (%d)", i.Lastname, i.FirstName, i.Score)
-}
+} 
