@@ -2,7 +2,6 @@ package api_test
 
 import (
 	"testing"
-
 	"frontendmasters.com/go/crypto/api"
 )
 
